@@ -23,3 +23,8 @@
   Athens University of Economics and Business.<br>
   Building a portfolio of projects at the intersection of business and technology.
 </p>
+<br>
+
+<p align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/AntoniouFot/AntoniouFot/output/snake.svg" alt="Contribution snake" />
+</p>
