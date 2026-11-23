@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./banner.svg" alt="Foteini Antoniou" />
+  <img width="100%" src="./banner.svg?v=2" alt="Foteini Antoniou" />
 </p>
 
 <p align="center">
