@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=560&lines=Where+business+meets+technology;Web+%E2%80%A2+Data+%E2%80%A2+Sustainability;Building+my+portfolio%2C+one+project+at+a+time" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=14B8A6&center=true&vCenter=true&width=750&lines=Where+business+meets+technology;Web+%E2%80%A2+Data+%E2%80%A2+Sustainability;Building+my+portfolio%2C+one+project+at+a+time" />
 </p>
 
 <p align="center">
@@ -16,122 +16,7 @@
   </a>
 </p>
 
-<img width="1200" height="360" alt="banner" src="https://github.com/user-attachments/assets/1f00cf9b-3702-477c-9088-2eb155956b26" />
 <br>
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 360" width="1200" height="360">
-  <defs>
-    <clipPath id="card"><rect width="1200" height="360" rx="24"/></clipPath>
-
-    <filter id="blur" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="60"/>
-    </filter>
-    <filter id="glow" x="-20%" y="-50%" width="140%" height="200%">
-      <feGaussianBlur stdDeviation="8" result="b"/>
-      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
-    </filter>
-
-    <linearGradient id="nameGrad" x1="0" y1="0" x2="1" y2="0" gradientUnits="objectBoundingBox" spreadMethod="reflect">
-      <stop offset="0" stop-color="#5eead4"/>
-      <stop offset="0.35" stop-color="#ffffff"/>
-      <stop offset="0.65" stop-color="#2dd4bf"/>
-      <stop offset="1" stop-color="#a7f3d0"/>
-      <animateTransform attributeName="gradientTransform" type="translate"
-        values="-1 0; 1 0; -1 0" dur="8s" repeatCount="indefinite"/>
-    </linearGradient>
-
-    <linearGradient id="line" x1="0" x2="1">
-      <stop offset="0" stop-color="#14b8a6" stop-opacity="0"/>
-      <stop offset="0.5" stop-color="#5eead4"/>
-      <stop offset="1" stop-color="#14b8a6" stop-opacity="0"/>
-    </linearGradient>
-
-    <pattern id="dots" width="28" height="28" patternUnits="userSpaceOnUse">
-      <circle cx="2" cy="2" r="1.2" fill="#5eead4" opacity="0.12"/>
-    </pattern>
-
-    <clipPath id="reveal">
-      <rect x="0" y="0" height="360" width="0">
-        <animate attributeName="width" from="0" to="1200" dur="1.6s" begin="0.2s" fill="freeze"
-          calcMode="spline" keySplines="0.65 0 0.35 1"/>
-      </rect>
-    </clipPath>
-  </defs>
-
-  <g clip-path="url(#card)">
-    <!-- background -->
-    <rect width="1200" height="360" fill="#06100f"/>
-
-    <!-- aurora blobs -->
-    <g filter="url(#blur)" opacity="0.85">
-      <circle cx="250" cy="120" r="170" fill="#0f766e">
-        <animateTransform attributeName="transform" type="translate"
-          values="0 0; 120 60; 40 -30; 0 0" dur="14s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="900" cy="260" r="190" fill="#0e7490">
-        <animateTransform attributeName="transform" type="translate"
-          values="0 0; -140 -50; -60 30; 0 0" dur="16s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="620" cy="60" r="130" fill="#059669">
-        <animateTransform attributeName="transform" type="translate"
-          values="0 0; 60 90; -80 40; 0 0" dur="12s" repeatCount="indefinite"/>
-      </circle>
-      <circle cx="1080" cy="40" r="110" fill="#14b8a6" opacity="0.7">
-        <animateTransform attributeName="transform" type="translate"
-          values="0 0; -60 70; 0 0" dur="10s" repeatCount="indefinite"/>
-      </circle>
-    </g>
-
-    <!-- dot grid -->
-    <rect width="1200" height="360" fill="url(#dots)"/>
-
-    <!-- orbit rings -->
-    <g fill="none" stroke="#5eead4" stroke-opacity="0.18">
-      <ellipse cx="600" cy="180" rx="520" ry="130" stroke-dasharray="4 10">
-        <animateTransform attributeName="transform" type="rotate" values="0 600 180; 360 600 180" dur="90s" repeatCount="indefinite"/>
-      </ellipse>
-      <ellipse cx="600" cy="180" rx="440" ry="100" stroke-dasharray="1 14" stroke-opacity="0.3">
-        <animateTransform attributeName="transform" type="rotate" values="360 600 180; 0 600 180" dur="70s" repeatCount="indefinite"/>
-      </ellipse>
-    </g>
-
-    <!-- rising particles -->
-    <g fill="#a7f3d0">
-      <circle cx="120" cy="380" r="2"><animate attributeName="cy" values="380;-20" dur="9s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="9s" repeatCount="indefinite"/></circle>
-      <circle cx="260" cy="380" r="1.5"><animate attributeName="cy" values="380;-20" dur="12s" begin="2s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="12s" begin="2s" repeatCount="indefinite"/></circle>
-      <circle cx="410" cy="380" r="2.5"><animate attributeName="cy" values="380;-20" dur="10s" begin="4s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.9;0" dur="10s" begin="4s" repeatCount="indefinite"/></circle>
-      <circle cx="540" cy="380" r="1.5"><animate attributeName="cy" values="380;-20" dur="8s" begin="1s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="8s" begin="1s" repeatCount="indefinite"/></circle>
-      <circle cx="700" cy="380" r="2"><animate attributeName="cy" values="380;-20" dur="11s" begin="3s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="11s" begin="3s" repeatCount="indefinite"/></circle>
-      <circle cx="830" cy="380" r="1.5"><animate attributeName="cy" values="380;-20" dur="9.5s" begin="5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="9.5s" begin="5s" repeatCount="indefinite"/></circle>
-      <circle cx="960" cy="380" r="2.5"><animate attributeName="cy" values="380;-20" dur="13s" begin="0.5s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;0.8;0" dur="13s" begin="0.5s" repeatCount="indefinite"/></circle>
-      <circle cx="1100" cy="380" r="2"><animate attributeName="cy" values="380;-20" dur="10s" begin="6s" repeatCount="indefinite"/><animate attributeName="opacity" values="0;1;0" dur="10s" begin="6s" repeatCount="indefinite"/></circle>
-    </g>
-
-    <!-- name -->
-    <g clip-path="url(#reveal)">
-      <text x="600" y="180" text-anchor="middle"
-        font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
-        font-size="96" font-weight="800" letter-spacing="-2"
-        fill="url(#nameGrad)" filter="url(#glow)">Foteini Antoniou</text>
-    </g>
-
-    <!-- underline -->
-    <rect x="600" y="212" width="0" height="2" fill="url(#line)">
-      <animate attributeName="width" from="0" to="560" dur="1.2s" begin="1.4s" fill="freeze" calcMode="spline" keySplines="0.65 0 0.35 1"/>
-      <animate attributeName="x" from="600" to="320" dur="1.2s" begin="1.4s" fill="freeze" calcMode="spline" keySplines="0.65 0 0.35 1"/>
-    </rect>
-
-    <!-- subtitle -->
-    <text x="600" y="258" text-anchor="middle"
-      font-family="'Segoe UI', 'Helvetica Neue', Helvetica, Arial, sans-serif"
-      font-size="20" font-weight="500" letter-spacing="6" fill="#99f6e4" opacity="0">
-      MANAGEMENT SCIENCE &amp; TECHNOLOGY  ·  AUEB
-      <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2s" fill="freeze"/>
-    </text>
-
-    <!-- edge vignette -->
-    <rect width="1200" height="360" fill="none" stroke="#5eead4" stroke-opacity="0.15" stroke-width="2" rx="24"/>
-  </g>
-</svg>
 
 <p align="center">
   Student at the <b>Department of Management Science and Technology</b>,<br>
